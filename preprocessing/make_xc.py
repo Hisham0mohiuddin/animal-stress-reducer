@@ -11,9 +11,9 @@ if __name__ == "__main__":
     # print(data_path)
     os.makedirs(audio_path,exist_ok = True)
     API_KEY = XC_API
-    QUERY = 'en:"great tit" type:"song" q:A len:0-60'
+    QUERY = 'en:"great tit" type:"song" len:0-60'
     PER_PAGE = 100
-    MAX_FILES = 300
+    MAX_FILES = 100
 
     base_url = "https://xeno-canto.org/api/3/recordings"
 
@@ -45,7 +45,7 @@ if __name__ == "__main__":
         data = response.json()
 
         for rec in tqdm(data["recordings"]):
-
+            
             if download_count >= MAX_FILES:
                 break
 
@@ -83,9 +83,6 @@ if __name__ == "__main__":
             new_data.to_csv(csv_path, mode='a', index=False, header=not os.path.exists(csv_path))   
 
 print(f"\nDownloaded {download_count} files")
-
-df = pd.DataFrame(metadata)
-df.to_csv("data/metadata.csv", index=False)
 
 
 
