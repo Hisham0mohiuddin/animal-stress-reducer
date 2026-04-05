@@ -3,3 +3,5 @@ preprocessing/config.py
 data/
 
 processed_npy/
+
+df_index_to_npy.csv

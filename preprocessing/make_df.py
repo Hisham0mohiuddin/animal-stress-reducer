@@ -18,25 +18,29 @@ def make_df():
         label_path = os.path.join(raw_data,type)
         if(os.path.isdir(label_path)):
             for file in os.listdir(label_path):
-                if(file.endswith("mp3")):
-                    final_raw_path = os.path.join(label_path,file)
-                    y_3d,sr = standard_equal_l(final_raw_path)
+                if file.endswith("mp3"):
 
-                    # now to save the 3D data points to .npy file
-                    npy_file = file.replace("mp3","npy")
-                    save_path = os.path.join(processed_save_path, npy_file)
-                    np.save(save_path,y_3d)
+                    final_raw_path = os.path.join(label_path, file)
 
-                    #record the infor to dataframe to act as an index 
-                    data.append({
-                        "file_id": file,
-                        "label": type,
-                        "npy_path": save_path
-                    })
+                    try:
+                        y_3d, sr = standard_equal_l(final_raw_path)
 
+                        npy_file = f"{type}_{file.replace('.mp3','.npy')}"
+                        save_path = os.path.join(processed_save_path, npy_file)
+
+                        np.save(save_path, y_3d.astype(np.float32))
+
+                        data.append({
+                            "file_id": file,
+                            "label": type,
+                            "npy_path": save_path
+                        })
+
+                    except Exception as e:
+                        print(f"❌ Skipping bad file: {file} | Error: {e}")
+                        continue
     df = pd.DataFrame(data)
-    df.to_csv('df_index_to_npy.csv')
-
+    df.to_csv('df_index_to_npy.csv', index=False)
 
 if __name__=="__main__":
     make_df()

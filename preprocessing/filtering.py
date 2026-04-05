@@ -18,7 +18,8 @@ def apply_bird_filter(audio,sr):
     return yt 
 
 def standard_equal_l(file_path, file_length = 10 , sr = 22050):
-    y_filtered = apply_bird_filter(*librosa.load(file_path))
+    y, sr = librosa.load(file_path, sr=sr)
+    y_filtered = apply_bird_filter(y, sr)    
     target_no_sampels = sr * file_length
     current_no_samples = len(y_filtered)
     if(current_no_samples>=target_no_sampels):
