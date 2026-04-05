@@ -2,18 +2,28 @@ import requests
 import os
 import pandas as pd
 from tqdm import tqdm
-import time 
+import librosa
+import numpy as np
+import time
+import matplotlib.pyplot as plt
 from config import XC_API
+
 if __name__ == "__main__":
-    crnt_path = os.getcwd()
-    # print(crnt_path)
-    audio_path  = os.path.join(crnt_path,"data/song")
-    # print(data_path)
-    os.makedirs(audio_path,exist_ok = True)
+
+    base_dir = os.getcwd()
+
+    audio_dir = os.path.join(base_dir, "data/song")
+    # spec_dir = os.path.join(base_dir, "data_spectrogram/song")
+
+    os.makedirs(audio_dir, exist_ok=True)
+    # os.makedirs(spec_dir, exist_ok=True)
+
+    csv_path = os.path.join(base_dir, "metadata_song.csv")
+
     API_KEY = XC_API
     QUERY = 'en:"great tit" type:"song" len:0-60'
     PER_PAGE = 100
-    MAX_FILES = 100
+    MAX_FILES = 500
 
     base_url = "https://xeno-canto.org/api/3/recordings"
 
@@ -28,13 +38,13 @@ if __name__ == "__main__":
     response.raise_for_status()
     data = response.json()
 
-    n = int(data["numPages"])
-    print(f"Total pages: {n}")
+    total_pages = int(data["numPages"])
+    print(f"Total pages: {total_pages}")
 
-    metadata = []
     download_count = 0
+    metadata = []
 
-    for page in range(1, n + 1):
+    for page in range(1, total_pages + 1):
 
         if download_count >= MAX_FILES:
             break
@@ -45,48 +55,58 @@ if __name__ == "__main__":
         data = response.json()
 
         for rec in tqdm(data["recordings"]):
-            
+
             if download_count >= MAX_FILES:
                 break
 
             file_url = rec["file"]
             file_id = rec["id"]
-            filename = os.path.join(audio_path, f"{file_id}.mp3")
-            try:
-                r = requests.get(file_url)
-                with open(filename, "wb") as f:
-                    f.write(r.content)
 
-                metadata.append({
-                    "id": file_id,
+            audio_path = os.path.join(audio_dir, f"{file_id}.mp3")
+            # spec_path = os.path.join(spec_dir, f"{file_id}.png")
+
+            try:
+                # download audio
+                r = requests.get(file_url)
+                with open(audio_path, "wb") as f:
+                    f.write(r.content)
+                remarks = rec.get("rmk", "")
+                remarks = remarks.replace("\n", " ").replace("\r", " ")
+                remarks = remarks.replace('"', "'")
+
+                row = {
+                    "id": rec["id"],
                     "english_name": rec["en"],
                     "country": rec["cnt"],
-                    "location": rec["loc"],
                     "lat": rec["lat"],
                     "lon": rec["lon"],
-                    "type": rec["type"],
                     "quality": rec["q"],
                     "length": rec["length"],
                     "time": rec["time"],
                     "date": rec["date"],
+                    "sample_rate": rec["smp"],
+                    "remarks": remarks,
+                    "sex": rec.get("sex", ""),
+                    "animal_seen": rec.get("animal-seen", ""),
                     "temp": rec.get("temp", ""),
-                    "sample_rate": rec["smp"]
-                })
+
+                    # label for ML
+                    "label": "song"
+                }
+
+                df = pd.DataFrame([row])
+
+                df.to_csv(
+                    csv_path,
+                    mode="a",
+                    index=False,
+                    header=not os.path.exists(csv_path)
+                )
 
                 download_count += 1
+                time.sleep(0.5)
 
             except Exception as e:
                 print(f"Failed {file_id}: {e}")
-            df = pd.DataFrame(metadata)
-            new_data = pd.DataFrame([metadata[-1]]) # Get only the last item added
-            csv_path = "data/metadata.csv"
-            new_data.to_csv(csv_path, mode='a', index=False, header=not os.path.exists(csv_path))   
 
-print(f"\nDownloaded {download_count} files")
-
-
-
-
-
-
-
+    print(f"\nDownloaded {download_count} files")

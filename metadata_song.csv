@@ -1,0 +1,501 @@
+id,english_name,country,lat,lon,quality,length,time,date,sample_rate,remarks,sex,animal_seen,temp,label
+1093386,Great Tit,China,39.9915,116.3113,A,0:35,6:09,2026-04-04,44100,,,yes,,song
+1092854,Great Tit,Cyprus,34.7618,32.5144,A,0:31,17:00,2026-03-22,24000,,male,no,,song
+1092853,Great Tit,Cyprus,34.7618,32.5144,A,0:14,17:00,2026-03-22,24000,,male,no,,song
+1092510,Great Tit,France,46.6716,4.8614,A,0:19,10:00,2026-02-20,24000,L'enregistrement n'a pas été modifié. Enregistreur posé dans un jardin d'une maison. ,,no,,song
+1092503,Great Tit,Italy,39.6118,16.7489,A,0:49,15:43,2026-03-29,44100,,male,yes,,song
+1092333,Great Tit,Italy,39.5409,16.6932,A,0:24,14:47,2026-03-23,44100,,male,yes,,song
+1092231,Great Tit,France,47.8103,-2.3838,A,0:43,07:01,2026-03-29,48000,,uncertain,yes,,song
+1091255,Great Tit,Denmark,56.3843,9.3276,A,0:57,16:07,2026-03-23,48000,,male,yes,,song
+1087991,Great Tit,Denmark,56.4394,9.1825,A,0:58,12:26,2026-03-07,48000,,male,yes,,song
+1084325,Great Tit,China,43.8003,87.5835,A,0:33,10:42,2026-02-18,44100,,,yes,,song
+1082760,Great Tit,France,43.2216,0.407,A,0:57,11:30,2026-02-22,48000,,male,no,,song
+1079218,Great Tit,Spain,36.669,-5.0372,A,0:15,15:30,2022-05-17,48000,,,no,,song
+1079215,Great Tit,Spain,36.669,-5.0372,A,0:44,07:30,2022-05-17,48000,,,no,,song
+1041642,Great Tit,Portugal,41.5938,-8.4655,A,0:58,09:24,2025-09-23,44100,,,yes,,song
+1009333,Great Tit,Portugal,41.5548,-8.4184,A,0:25,10:09,2025-06-25,44100,,,yes,,song
+995195,Great Tit,Portugal,41.5708,-8.4107,A,0:46,08:45,2025-05-06,44100,,,yes,,song
+994570,Great Tit,Slovenia,45.768,14.3603,A,0:24,14:42,2025-04-11,44100,Male singing very close to us from a willow tree.,male,yes,,song
+992471,Great Tit,Italy,39.4209,16.7035,A,0:23,17:05,2025-04-27,44100,,male,yes,,song
+990596,Great Tit,Italy,39.4204,16.7547,A,0:30,11:47,2025-04-20,44100,,male,yes,,song
+987878,Great Tit,Italy,39.7895,16.4854,A,0:38,11:15,2025-04-13,44100,,male,yes,,song
+987454,Great Tit,Spain,42.8373,-8.652,A,0:24,11:30,2025-04-11,44100,SNR 52dB(ISO/ITU),male,yes,,song
+986668,Great Tit,Spain,42.835,-8.6067,A,0:49,20:30,2025-04-05,44100,51 dB (ISO/ITU). ,male,yes,,song
+985185,Great Tit,United Kingdom,51.4918,0.4129,A,0:25,18:30,2024-03-20,48000,,male,yes,,song
+978868,Great Tit,Norway,60.7385,10.9835,A,0:37,13:51,2025-02-27,48000,,male,yes,,song
+975502,Great Tit,Poland,53.769,20.4806,A,0:24,11:00,2025-02-23,32000,,male,yes,,song
+975084,Great Tit,Sweden,55.5964,14.3076,A,0:53,10:00,2025-02-22,48000,"SNR 54db, (ISO/ITU)",male,yes,,song
+972649,Great Tit,Italy,39.4208,16.7548,A,0:45,08:33,2025-02-03,44100,,male,yes,,song
+964319,Great Tit,Poland,52.7001,23.8501,A,0:32,10:00,2025-01-26,32000,Lonely male XC964306,male,yes,,song
+964295,Great Tit,Poland,52.7001,23.8501,A,0:55,10:00,2025-01-26,32000,Lonely male XC964319,male,yes,,song
+962211,Great Tit,Spain,42.8221,-8.6317,A,0:57,17:30,2025-01-17,44100,SNR 52 dB (ISO/ITU). Two males singing the same phrase,male,yes,,song
+955699,Great Tit,Portugal,41.5548,-8.4184,A,0:48,10:34,2024-12-17,44100,,,yes,,song
+939098,Great Tit,Norway,60.7385,10.9835,A,0:40,13:06,2024-03-21,48000,,male,yes,,song
+922370,Great Tit,Finland,64.7528,26.7513,A,0:26,03:32,2023-05-15,48000,Same bird as in XC922369,,yes,,song
+922369,Great Tit,Finland,64.7528,26.7513,A,0:38,03:30,2023-05-15,48000,,,yes,,song
+905525,Great Tit,France,49.3549,0.5087,A,0:48,07:19,2023-05-23,48000,,uncertain,no,,song
+895153,Great Tit,United Kingdom,52.7383,0.4868,A,0:47,08:30,2024-04-11,44100,,male,yes,,song
+883597,Great Tit,Spain,,,A,0:58,10:30,2024-03-12,48000,"Great tit singing, perched on an oak branch.",,yes,,song
+879770,Great Tit,Estonia,58.0576,26.6669,A,0:43,10:00,2024-02-26,48000,hpf,male,yes,,song
+879379,Great Tit,Poland,51.1101,15.583,A,0:31,9:00,2024-02-08,48000,,male,yes,,song
+874098,Great Tit,Spain,42.8221,-8.6317,A,0:42,16:30,2024-02-14,44100,SNR 57 dB (ISO / ITU),male,yes,,song
+871383,Great Tit,Spain,42.614,1.2768,A,0:49,13:37,2024-02-04,44100,,male,yes,,song
+870733,Great Tit,Belgium,50.4357,5.7941,A,0:20,17:45,2023-04-13,48000,HPF 1000Hz -6dB  [SNR 55dB(ISO/ITU)](https://xeno-canto.org/article/275),male,yes,,song
+865913,Great Tit,Spain,42.8221,-8.6317,A,0:39,18:00,2024-01-26,44100,SNR 56 dB (ISO/ITU),male,yes,,song
+862138,Great Tit,France,48.5104,-4.2716,A,0:40,09:30,2024-01-14,44100,,uncertain,yes,,song
+845019,Great Tit,Germany,49.4254,8.6657,A,0:38,10:53,2023-11-30,44100,,,yes,,song
+843484,Great Tit,Netherlands,51.9363,5.9001,A,0:53,06:55,2023-03-18,48000,,male,no,,song
+833622,Great Tit,Latvia,56.4959,24.7806,A,0:18,07:19,2007-03-24,44100,,,yes,,song
+832368,Great Tit,Mongolia,47.8561,106.6812,A,0:14,10:41,2023-05-21,48000,,uncertain,yes,,song
+814262,Great Tit,Sweden,60.6086,15.8386,A,0:41,10:00,2023-05-14,44100,SNR 65dB (ISO/ITU)    Bird calling from a shrub.,male,yes,,song
+814261,Great Tit,Sweden,60.6086,15.8386,A,0:34,10:00,2023-04-08,44100,SNR 65dB (ISO/ITU)    Bird calling from a shrub.,male,yes,,song
+813557,Great Tit,Kazakhstan,45.052,75.2689,A,0:51,14:00,2023-05-25,48000,Turkestan Tit',,unknown,,song
+813556,Great Tit,Kazakhstan,45.052,75.2689,A,0:42,14:00,2023-05-25,48000,Turkestan Tit',,unknown,,song
+806892,Great Tit,China,31.5332,120.1996,A,0:58,15:47,2023-06-01,48000,,uncertain,yes,,song
+804462,Great Tit,China,31.1212,121.4026,A,0:46,06:26,2022-03-06,48000,,uncertain,yes,,song
+804299,Great Tit,France,47.4593,4.4201,A,0:44,07:30,2023-05-27,48000,sings while grooming,male,yes,,song
+800916,Great Tit,Finland,60.4608,22.3024,A,0:48,13:48,2023-05-13,48000,,male,yes,,song
+799282,Great Tit,France,47.4205,4.4503,A,0:14,07:00,2023-05-01,48000,,male,yes,,song
+798922,Great Tit,Sweden,58.9094,17.6835,A,0:52,06:15,2023-04-22,48000,"[SNR:](https://xeno-canto.org/article/275) 62 dB(ISO/ITU)    **Recorded:** song: characteristically loud, sharp, and somewhat metallic, *tsi-tsi-daa tsi-tsi-daa*    **Area and habitat:** Mixed forest grows along a gently sloping hillside, close to a bay.     **Bird observations:** The Great Tit can be heard singing from the edge of the forest.     **Weather conditions:** Clear skies. Temperature: 4°C/39°F. Calm.    **Sound classification and rendering:** Cramp, S. and Perrins, C. M. (ed.) (1993) *The Birds of the Western Palearctic, Volume 7: Flycatchers to Shrikes.* Oxford University Press, Oxford.    **Other distinguishable species:** European Greenfinch,*Chloris chlors*, flight call, at e.g. 0:00.6; Common Wood Pigeon, *Columba palumbus*, song, at e.g. 0:11.1 (vaguely); European Robin, *Erithacus rubecula*, song, at e.g. 0:22; Song Thrush, *Turdus philomelos*, song, at e.g. 0:23.6; Eurasian Treecreeper, *Certhia familiaris*, call, at e.g. 0:45.8.  ",,no,,song
+798517,Great Tit,Germany,49.4238,8.7064,A,0:24,12:04,2023-05-02,44100,,,yes,,song
+798515,Great Tit,Sweden,58.8949,17.696,A,0:29,07:35,2023-04-16,48000,"[SNR:](https://xeno-canto.org/article/275) 63 dB(ISO/ITU)    **Recorded:** foreground bird: song, characteristically loud, sharp, and somewhat metallic; an aberrant four-note stanza, *tsi-tsi-da-ti tsi-tsi-da-ti*, at e.g. 0:01, 0:08.4 and 0:24.7; background bird: churring call, *chich-ich-ich-ich-ich*, at 0:14.5, 0:22 and 0:23.5.     **Area and habitat:** conifers grow on rocky ground by a bay.     **Bird observations:** a male Great tit sings from a pine tree.     **Sound classification and rendering:**  Cramp, S. and Perrins, C. M. (ed.) (1993) *The Birds of the Western Palearctic, Volume 7: Flycatchers to Shrikes.* Oxford University Press, Oxford.    **Other distinguishable species:** Eurasian Blue Tit *Cyanistes caeruleus*, churring call at e.g. 0:03.8 and 0:10.4; Goldcrest *Regulus regulus*, song at e.g. 0:04.4; Common Reed Bunting *Emberiza schoeniclus*, call at e.g. 0:16.9 (vaguely).  ",male,yes,,song
+795763,Great Tit,France,43.3996,3.6759,A,0:48,08:00,2023-04-20,96000,,,unknown,,song
+795227,Great Tit,France,47.4607,4.4191,A,0:21,09:00,2023-04-20,48000,,male,yes,,song
+792183,Great Tit,Sweden,63.6057,19.9765,A,0:41,14:00,2023-04-10,48000,[SNR 60dB(ISO/ITU)](https://xeno-canto.org/article/275),,yes,,song
+791289,Great Tit,Italy,45.2548,11.1176,A,0:49,16:00,2023-02-23,44100,Two birds in duet. See here <https://ebird.org/checklist/S129433248>,uncertain,yes,,song
+789416,Great Tit,Sweden,63.6057,19.9765,A,0:37,08:00,2023-03-30,48000,[SNR 57dB(ISO/ITU)](https://xeno-canto.org/article/275),,yes,,song
+788731,Great Tit,Ireland,53.93,-6.5882,A,0:37,09:00,2023-03-19,44100,,male,no,,song
+783621,Great Tit,Sweden,63.6057,19.9765,A,0:57,08:00,2023-03-03,48000,[SNR 63dB(ISO/ITU)](https://xeno-canto.org/article/275),,yes,,song
+783546,Great Tit,Russian Federation,56.7396,37.1971,A,0:40,12:47,2023-02-26,48000,,male,yes,,song
+780463,Great Tit,Sweden,63.6057,19.9765,A,0:42,08:00,2023-02-15,48000,[SNR 54dB(ISO/ITU)](https://xeno-canto.org/article/275),male,yes,,song
+780064,Great Tit,Sweden,59.6197,17.3767,A,0:49,14:00,2023-02-11,48000,The bird was in bad condition. The plumage was a mess.,male,yes,,song
+741377,Great Tit,Germany,51.054,7.0379,A,0:53,12:44,2021-02-04,32000,,,yes,,song
+729993,Great Tit,Germany,52.2362,13.8762,A,0:23,04:52,2022-06-08,48000,,,yes,,song
+724068,Great Tit,France,42.6644,2.5014,A,0:33,07:00,2022-05-13,44100,Tascam DR05X and Dodotronic parabole. Bird training.,,no,,song
+720773,Great Tit,United Kingdom,51.942,1.1473,A,0:20,06:30,2022-04-29,48000,The bird was in a small tree adjacent to an area of scrub and farmland.,,yes,,song
+720292,Great Tit,Estonia,58.3749,26.6876,A,0:42,05:30,2022-04-29,48000,HPF,,yes,,song
+719660,Great Tit,Estonia,58.5912,25.0948,A,0:09,11:00,2022-04-16,48000,HPF,,yes,,song
+718274,Great Tit,France,48.0014,-2.0948,A,0:09,16:00,2022-04-24,44100,wildtronics mono amplified  Tascam Dr05,,yes,,song
+716880,Great Tit,Netherlands,51.4279,5.4685,A,0:34,11:18,2022-04-19,44100,,,yes,,song
+716368,Great Tit,Norway,60.7385,10.9835,A,0:49,10:25,2022-04-18,48000,,male,yes,,song
+716335,Great Tit,Norway,60.7385,10.9835,A,0:42,12:24,2022-04-18,48000,,male,yes,,song
+715983,Great Tit,Netherlands,51.9892,4.4694,A,0:20,07:40,2022-04-16,44100,,male,no,,song
+715846,Great Tit,France,48.2128,-3.0134,A,0:41,12:30,2022-04-15,48000,,,yes,,song
+714966,Great Tit,Norway,60.7385,10.9835,A,0:42,13:49,2022-04-12,48000,,male,yes,,song
+713960,Great Tit,Sweden,63.8344,20.1259,A,0:42,07:00,2022-04-07,44100, [SNR 57dB(ISO/ITU)](https://xeno-canto.org/article/275),,no,,song
+712689,Great Tit,Poland,49.4488,20.7554,A,0:44,12:00,2022-03-02,48000,,male,yes,,song
+711367,Great Tit,Netherlands,52.1283,5.8665,A,0:36,09:45,2022-03-23,48000,,male,yes,,song
+710157,Great Tit,Norway,60.7385,10.9835,A,0:45,10:15,2022-03-18,48000,,male,yes,,song
+709334,Great Tit,Norway,60.7385,10.9835,A,0:25,10:13,2022-03-18,48000,,male,yes,,song
+707232,Great Tit,Sweden,63.8344,20.1259,A,0:24,08:00,2022-03-08,48000,[SNR 67dB(ISO/ITU)](https://xeno-canto.org/article/275),male,yes,,song
+702172,Great Tit,Italy,39.8291,16.3137,A,0:59,13:30,2022-02-13,44100,,male,yes,,song
+701100,Great Tit,Norway,60.7385,10.9835,A,0:21,11:27,2022-02-08,48000,,male,yes,,song
+700363,Great Tit,Norway,60.7225,11.1095,A,0:48,14:20,2022-02-04,48000,,male,yes,,song
+699177,Great Tit,France,47.467,4.4459,A,0:14,08:28,2020-04-20,48000,,male,yes,,song
+698427,Great Tit,Spain,40.4331,-5.7915,A,0:26,10:30,2022-01-23,44100,"Se escuchan Estorninos negro (Sturnus unicolor), Trepador azul (Sitta europaea) y quizás Mito común (Aegithalos caudatus) y Herrerillo común (Cyanistes caeruleus).",,yes,,song
+698342,Great Tit,Sweden,63.8313,20.2607,A,0:05,11:00,2022-01-23,48000,,,yes,,song
+694890,Great Tit,Germany,50.9334,11.5623,A,0:52,07:50,2022-01-01,48000,Bird in the bushes just next to the last house before the forrest. Still quite dark so bird not seen. Singing ended after the recording.  Slight low cut against the city noise.,uncertain,no,,song
+656197,Great Tit,Croatia,45.138,18.3357,A,0:15,11:00,2021-04-01,44100,,,yes,,song
+653264,Great Tit,Netherlands,51.9892,4.4694,A,0:16,05:32,2021-05-31,44100,,male,no,,song
+649834,Great Tit,Netherlands,51.8223,5.8695,A,0:44,17:01,2021-01-14,44100,,male,yes,,song
+644789,Great Tit,Netherlands,51.9892,4.4694,A,0:18,05:49,2021-05-02,44100,,male,no,,song
+643315,Great Tit,Sweden,63.8344,20.1259,A,0:32,08:00,2021-04-28,48000,[SNR 53dB(ISO/ITU)](https://xeno-canto.org/article/275),,yes,,song
+641368,Great Tit,Germany,52.3087,9.4223,A,0:25,19:31,2021-04-20,44100,,,yes,,song
+639620,Great Tit,Portugal,37.0865,-7.7143,A,0:22,17:54,2021-03-27,48000,"Recorder: Samsung Galaxy A12 / RecForge II     Editing: Audacity (High-pass filter 250Hz/6dB, sound normalized to -3dB).  ",,yes,,song
+638954,Great Tit,Poland,49.5646,20.6492,A,0:10,11:30,2021-04-11,48000,,male,yes,,song
+635804,Great Tit,Estonia,59.3683,25.7102,A,0:36,17:00,2021-03-26,48000,"HPF, NR, intervals shortened",,yes,,song
+633254,Great Tit,France,46.5529,5.9105,A,0:55,07:30,2021-03-26,48000,,,yes,,song
+630718,Great Tit,Portugal,37.1253,-7.66,A,0:23,16:20,2021-03-15,48000,"Recorder: Samsung Galaxy A12 / RecForge II     Editing: Audacity (High-pass filter 1250Hz/6dB, sound normalized to -3dB).",male,yes,,song
+629909,Great Tit,Sweden,60.6236,15.7281,A,0:30,15:00,2021-02-28,44100,,,yes,,song
+629908,Great Tit,Sweden,60.6236,15.7281,A,0:15,15:00,2021-02-28,44100,[SNR 56dB(ISO/ITU)],,yes,,song
+626693,Great Tit,France,46.2948,5.7283,A,0:35,15:00,2021-02-28,48000,,,yes,,song
+626177,Great Tit,Norway,60.7385,10.9835,A,0:57,07:09,2021-03-04,48000,,male,no,,song
+625085,Great Tit,Norway,60.7225,11.1095,A,0:25,10:38,2021-02-28,48000,,male,no,,song
+624867,Great Tit,United Kingdom,52.4105,-2.3414,A,0:50,09:00,2021-02-27,44100,None modified or filtered.,,yes,,song
+623861,Great Tit,Norway,60.7225,11.1095,A,0:31,15:18,2021-02-21,48000,,male,yes,,song
+623375,Great Tit,Belgium,50.354,5.923,A,0:54,09:30,2021-02-19,44100,,,unknown,,song
+620574,Great Tit,Norway,69.578,18.64,A,0:58,12:00,2021-02-07,48000,Mixpre3 II 32-bit float files Telinga stereo MK2,male,yes,,song
+619951,Great Tit,Belgium,51.0553,3.7593,A,0:22,?,2021-02-06,44100,,,yes,,song
+617392,Great Tit,Belgium,51.0848,4.6207,A,0:26,10:00,2021-01-23,44100,,,unknown,,song
+617253,Great Tit,Norway,60.7225,11.1095,A,0:58,14:01,2021-01-24,48000,,male,yes,,song
+611459,Great Tit,Sweden,60.5529,15.7808,A,0:34,15:00,2020-03-21,48000,[SNR 58dB(ISO/ITU)],male,unknown,,song
+602152,Great Tit,France,46.5763,0.3224,A,0:14,19:00,2020-03-18,48000,Urban area.,male,yes,,song
+602151,Great Tit,France,46.5763,0.3224,A,0:59,11:00,2020-03-18,48000,Urban area. ,male,yes,,song
+602148,Great Tit,France,46.5763,0.3224,A,0:25,10:30,2020-03-18,48000,Urban area.,male,yes,,song
+598523,Great Tit,United Kingdom,55.1114,-1.952,A,0:46,06:50,2017-04-02,48000,,,yes,,song
+592652,Great Tit,Poland,49.1256,22.7933,A,0:53,17:00,2011-04-01,32000,Same bird XC592649,male,unknown,,song
+592649,Great Tit,Poland,49.1256,22.7933,A,0:43,17:00,2011-04-01,32000,,male,unknown,,song
+583661,Great Tit,Belgium,51.4154,4.4126,A,0:44,00:00,2020-05-12,44100,,,yes,,song
+562381,Great Tit,Portugal,41.5547,-8.3771,A,0:39,9:44,2020-05-25,44100,,,yes,,song
+561092,Great Tit,Sweden,60.444,15.539,A,0:31,03:52,2020-05-21,44100,Was switching between this song and a more normal type.,,yes,,song
+555154,Great Tit,Finland,60.2279,25.0618,A,0:19,04:00,2020-05-08,44100,,,no,,song
+554372,Great Tit,France,47.302,-1.5568,A,0:32,13:19,2020-02-23,44100,Tascam DR05 and Wildtronics parabole.,,yes,,song
+553637,Great Tit,Belgium,51.1405,4.9916,A,0:05,06:40,2020-05-03,48000,,,no,,song
+552536,Great Tit,Sweden,57.6158,18.2573,A,0:17,04:05,2019-06-05,44100,In dense forest.,,no,,song
+551734,Great Tit,Belgium,51.1404,4.992,A,0:09,10:15,2020-04-28,48000,,,yes,,song
+551692,Great Tit,Belgium,51.1405,4.9916,A,0:33,18:50,2020-04-27,48000,,,yes,,song
+546258,Great Tit,Spain,40.7366,-3.7485,A,0:21,13:22,2020-04-04,44100,Grabado en urbanización de baja densidad de población con abundante arbolado. Grabación amplificada,,no,,song
+543375,Great Tit,France,46.5761,0.3221,A,0:40,17:00,2020-03-23,48000,,,yes,,song
+541526,Great Tit,France,48.8205,2.1781,A,0:56,07:00,2020-04-04,48000,,,yes,,song
+541522,Great Tit,France,48.8205,2.1781,A,0:26,07:00,2020-04-04,48000,,,yes,,song
+537192,Great Tit,France,45.96,5.5165,A,0:44,10:00,2020-02-22,44100,,,yes,,song
+536910,Great Tit,Norway,60.7385,10.9835,A,0:40,16:48,2020-03-21,48000,,male,yes,,song
+536592,Great Tit,France,48.8205,2.1781,A,0:35,06:30,2020-03-21,48000,"Cris fins typiques sur deux tons, puis ricanement accéléré.",,yes,,song
+535738,Great Tit,Sweden,63.7515,20.3103,A,0:43,08:00,2020-03-18,48000,[SNR 56dB(ISO/ITU)](https://xeno-canto.org/article/275) Two birds singing,,yes,,song
+535694,Great Tit,France,48.8196,2.1885,A,0:35,07:00,2020-03-18,48000,,,yes,,song
+533769,Great Tit,Sweden,60.5831,15.5385,A,0:13,12:30,2020-02-29,44100,[SNR 52dB(ISO/ITU)],,yes,,song
+533705,Great Tit,France,48.6647,1.8492,A,0:59,07:00,2020-03-07,48000,,,yes,,song
+532302,Great Tit,Poland,52.393,20.5365,A,0:50,12:00,2020-03-05,48000,Isolated two males - in the background XC532299  ,male,unknown,,song
+532299,Great Tit,Poland,52.393,20.5365,A,0:46,12:00,2020-03-05,48000,,male,unknown,,song
+531961,Great Tit,Norway,69.578,18.64,A,0:50,16:00,2020-03-05,48000,Mixpre3 II Telinga MK2 32bit float file 96Khz male singing,male,yes,,song
+529779,Great Tit,Norway,60.6426,11.1539,A,0:32,10:37,2020-02-23,48000,,male,yes,,song
+529767,Great Tit,France,43.638,4.3006,A,0:29,10:00,2020-02-23,44100,,,yes,,song
+528433,Great Tit,France,48.6261,1.7248,A,0:59,09:00,2020-02-18,48000,,,yes,,song
+524972,Great Tit,Belgium,51.402,4.444,A,0:46,11:00,2020-02-07,44100,,,unknown,,song
+524510,Great Tit,Sweden,63.8313,20.2607,A,0:19,09:00,2020-02-05,48000, [SNR 57dB(ISO/ITU)](https://xeno-canto.org/article/275),,yes,,song
+521232,Great Tit,Poland,52.1538,21.1427,A,0:41,14:00,2020-01-18,48000,,male,yes,,song
+520025,Great Tit,Sweden,58.6125,13.3851,A,0:12,00:00,1975-05-18,44100,,,yes,,song
+517566,Great Tit,Sweden,64.2026,19.7169,A,0:26,05:00,2019-03-01,48000, [SNR 55dB(ISO/ITU)](https://xeno-canto.org/article/275),,no,,song
+505777,Great Tit,France,43.8958,3.7375,A,0:55,05:46,2017-05-17,48000,,male,yes,,song
+470193,Great Tit,Netherlands,51.94,5.9038,A,0:18,04:52,2019-03-26,48000,the very second he left the nestbox he started singing en flew off,,no,,song
+468695,Great Tit,Netherlands,51.94,5.9038,A,0:37,06:31,2019-04-22,48000,This adult male Great Tit is singing like this most often in de morning. He can and will sing his normal repetoire too. Therefore I don't think this is plastic song..,male,yes,,song
+467944,Great Tit,France,42.6621,2.5006,A,0:33,07:00,2019-04-06,44100,Tascam DR05 et Wildtronics parabole,,yes,,song
+462714,Great Tit,Belgium,50.9925,4.3981,A,0:38,14:30,2019-03-22,44100,,,unknown,,song
+462709,Great Tit,Belgium,50.9925,4.3981,A,0:37,14:10,2019-03-22,44100,,,unknown,,song
+462704,Great Tit,Belgium,50.9925,4.3981,A,0:41,13:30,2019-03-22,44100,,,unknown,,song
+462212,Great Tit,Spain,41.8642,2.1127,A,0:32,09:00,2019-03-03,44100,,,yes,,song
+455618,Great Tit,Norway,60.8473,10.9525,A,0:33,14:33,2019-02-09,48000,,,no,,song
+450653,Great Tit,Sweden,58.4278,14.2273,A,0:45,04:27,2018-05-18,44100,,,yes,,song
+450650,Great Tit,Sweden,58.4278,14.2273,A,0:19,09:13,2018-04-22,44100,,,yes,,song
+448603,Great Tit,Poland,49.4167,20.4591,A,0:18,07:30,2018-06-09,24000,(Automated SM2 recording),,no,,song
+443869,Great Tit,Norway,69.4435,17.343,A,0:47,09:30,2008-07-12,48000,,male,yes,,song
+443776,Great Tit,Norway,69.2427,19.4481,A,0:40,06:30,2018-04-25,48000,,male,yes,,song
+443775,Great Tit,Norway,68.8352,15.6354,A,0:44,05:00,2018-05-26,48000,,male,yes,,song
+436195,Great Tit,France,46.3251,-1.3199,A,0:54,11:00,2018-04-17,48000,,,yes,,song
+432977,Great Tit,United Kingdom,53.1234,-1.9189,A,0:58,10:00,2018-08-30,44100,,,no,,song
+417023,Great Tit,Belgium,50.1317,4.6177,A,0:55,?,2018-05-20,48000,,,unknown,,song
+416521,Great Tit,Spain,41.3359,0.737,A,0:49,12:00,2018-04-29,44100,,,yes,,song
+412456,Great Tit,Spain,37.9055,-2.8989,A,0:45,08:00,2018-04-18,48000,,,no,,song
+411297,Great Tit,Spain,39.754,3.183,A,0:44,07:30,2018-04-13,48000,,,yes,,song
+411007,Great Tit,Spain,39.753,3.183,A,0:50,07:30,2018-04-06,48000,,,yes,,song
+409284,Great Tit,United Kingdom,51.8079,0.7739,A,0:50,17:00,2018-04-05,48000,,,yes,,song
+407884,Great Tit,Poland,53.7878,23.2653,A,0:48,11:00,2018-03-25,44100,,male,yes,,song
+407415,Great Tit,Sweden,63.9334,20.3735,A,0:25,07:30,2018-03-23,48000,  [SNR 50dB(ISO/ITU)](https://xeno-canto.org/article/275),,yes,,song
+406287,Great Tit,Switzerland,46.9846,7.2564,A,0:26,13:45,2018-03-16,48000,,,yes,,song
+405034,Great Tit,Poland,52.3896,20.7271,A,0:36,10:00,2018-03-08,44100,Mimicry of Long-tailed Tit,male,yes,,song
+405033,Great Tit,Poland,52.3896,20.7271,A,0:25,10:00,2018-03-08,32000,Same bird  XC405032,male,yes,,song
+403599,Great Tit,Belgium,51.0266,3.7896,A,0:58,?,2018-02-25,48000,,,yes,,song
+402994,Great Tit,Germany,49.0826,8.362,A,0:37,10:30,2018-02-18,44100,"high pass filter, noise reduction",,yes,,song
+402993,Great Tit,Germany,49.0829,8.3612,A,0:15,10:30,2018-02-18,44100,"high pass filter, noise reduction",,yes,,song
+402795,Great Tit,France,43.1829,0.3889,A,0:37,12:30,2018-02-15,48000,Parabole wildtronic + Zoom H6  High pass 600,male,yes,,song
+402794,Great Tit,France,43.1829,0.3889,A,0:48,12:30,2018-02-15,48000,Parabole wildtronic + Zoom H6  High pass 600,male,yes,,song
+402453,Great Tit,Belgium,51.0504,3.7521,A,0:53,?,2018-02-11,48000,,,yes,,song
+397015,Great Tit,Norway,62.0864,9.8014,A,0:51,05:20,2016-05-04,48000,,,no,,song
+384625,Great Tit,Germany,52.0257,7.6455,A,0:42,13:31,2017-05-07,44100,,,yes,,song
+384622,Great Tit,Germany,51.4512,7.0154,A,0:36,05:42,2017-05-01,44100,,,yes,,song
+383655,Great Tit,Norway,63.7682,11.3722,A,0:46,14:00,2017-04-29,48000,,,yes,,song
+381182,Great Tit,France,43.8959,3.7364,A,0:55,06:00,2017-05-15,48000,"Tascam DR05 (48kHz-24bits) - Parabole Wildtronics. Amplified by Audacity. 34 - Saint-Bauzille-du-Putois, La Filature. Le 17 mai 2017",,yes,,song
+378418,Great Tit,Sweden,60.5979,15.5768,A,0:07,05:16,2017-05-21,44100,In oak trees in an open area.,,yes,,song
+371625,Great Tit,France,48.2702,7.3967,A,0:27,16:56,2017-04-16,44100,,,yes,,song
+371452,Great Tit,Germany,51.4512,7.0154,A,0:58,05:44,2017-04-01,44100,,,yes,,song
+371424,Great Tit,Germany,51.4512,7.0154,A,0:30,16:00,2017-01-10,44100,,,yes,,song
+367520,Great Tit,Norway,60.7385,10.9835,A,0:58,08:35,2017-05-03,48000,,,no,,song
+362930,Great Tit,Norway,60.6426,11.1539,A,0:57,12:00,2017-04-03,48000,,,yes,,song
+362777,Great Tit,Norway,60.6426,11.1539,A,0:23,12:00,2017-04-03,48000,,,yes,,song
+362734,Great Tit,Norway,60.6426,11.1539,A,0:31,11:50,2017-04-03,48000,,,no,,song
+357767,Great Tit,Switzerland,46.9769,7.1444,A,0:35,10:00,2017-03-04,48000,,,yes,,song
+356798,Great Tit,Switzerland,46.948,6.9969,A,0:38,13:00,2017-02-25,48000,,male,yes,,song
+356368,Great Tit,Italy,42.421,11.095,A,0:17,13:00,2016-04-21,48000,Check my website birdsongs.it for more details,male,no,,song
+356367,Great Tit,Italy,42.7883,11.0062,A,0:30,05:30,2015-05-20,48000,Check my website birdsongs.it for more details,male,no,,song
+356365,Great Tit,Italy,42.7316,10.9628,A,0:28,06:00,2013-05-26,48000,Check my website birdsongs.it for more details,male,no,,song
+356362,Great Tit,Italy,42.556,11.19,A,0:26,06:30,2010-05-10,48000,Check my website birdsongs.it for more details,male,yes,,song
+348078,Great Tit,Finland,62.3756,25.9392,A,0:19,06:30,2015-04-15,44100,,,yes,,song
+348077,Great Tit,Finland,62.2278,26.2524,A,0:15,06:30,2007-05-11,48000,,,yes,,song
+348072,Great Tit,Finland,62.2146,25.7845,A,0:18,06:30,2009-03-30,44100,,,yes,,song
+344671,Great Tit,Sweden,58.4278,14.2273,A,0:19,14:43,2016-04-10,44100,Same bird as XC344667 - XC344671,,yes,,song
+344670,Great Tit,Sweden,58.4278,14.2273,A,0:59,14:27,2016-04-10,44100,Same bird as XC344667 - XC344671,,yes,,song
+344668,Great Tit,Sweden,58.4278,14.2273,A,0:19,14:43,2016-04-10,44100,Same bird as XC344667 - XC344671,,yes,,song
+342136,Great Tit,Sweden,58.3001,13.9053,A,0:16,08:43,2013-02-23,44100,,,yes,,song
+341358,Great Tit,Netherlands,51.9903,5.9262,A,0:57,09:01,2016-10-31,48000,Loud and Clear,,no,,song
+315677,Great Tit,Germany,53.7472,9.6669,A,0:44,09:00,2016-04-12,44100,,,yes,,song
+309830,Great Tit,Germany,51.4512,7.0154,A,0:57,05:08,2016-03-26,44100,,,yes,,song
+309824,Great Tit,Germany,51.4512,7.0154,A,0:47,13:28,2016-03-03,44100,,,yes,,song
+309742,Great Tit,Germany,51.4299,6.9937,A,0:37,17:03,2016-01-17,44100,,,yes,,song
+306728,Great Tit,Spain,41.5967,1.7734,A,0:50,11:01,2016-03-04,48000,,,yes,,song
+306280,Great Tit,Ukraine,49.634,26.2213,A,0:30,?,2016-03-04,48000,,male,yes,,song
+304752,Great Tit,France,48.7558,5.9045,A,0:54,12:56,2015-04-11,44100,,,yes,,song
+304747,Great Tit,France,48.3592,7.3186,A,0:48,05:34,2015-04-10,44100,,,yes,,song
+304745,Great Tit,France,48.3592,7.3186,A,0:58,05:29,2015-04-10,44100,,,yes,,song
+303437,Great Tit,France,48.3263,7.3132,A,0:25,06:29,2015-04-09,44100,,,yes,,song
+303431,Great Tit,Switzerland,46.9964,7.0482,A,0:17,10:30,2016-02-02,48000,,male,yes,,song
+303416,Great Tit,France,48.3581,7.3218,A,0:39,14:48,2015-04-06,44100,,,yes,,song
+303404,Great Tit,France,48.3596,7.3213,A,0:48,14:37,2015-04-06,44100,,,yes,,song
+303395,Great Tit,Germany,51.4512,7.0154,A,0:28,14:29,2015-03-18,44100,,,yes,,song
+303316,Great Tit,Germany,51.4512,7.0154,A,0:31,05:29,2014-05-04,44100,,,yes,,song
+303312,Great Tit,Germany,51.576,7.2223,A,0:15,14:57,2012-04-06,44100,,male,yes,,song
+294695,Great Tit,Sweden,57.6858,18.3455,A,0:15,06:20,2015-05-25,44100,Song from a bird in the top of a pine.,,yes,,song
+281640,Great Tit,Belgium,51.371252,4.612641,A,0:51,11:05,2007-06-02,44100,,,unknown,,song
+281639,Great Tit,Belgium,51.371252,4.612641,A,0:40,11:05,2007-06-02,44100,,,unknown,,song
+281638,Great Tit,Belgium,50.233,5.466,A,0:37,13:20,2007-03-17,44100,,,unknown,,song
+281637,Great Tit,Netherlands,51.625,3.981,A,0:54,12:35,2008-02-16,44100,,,unknown,,song
+281636,Great Tit,Belgium,50.054,4.625,A,0:34,07:05,2007-06-02,44100,,,unknown,,song
+281635,Great Tit,Belgium,50.233,5.466,A,0:41,14:30,2007-03-17,44100,,,unknown,,song
+263953,Great Tit,Norway,66.5065,12.0575,A,0:10,05:00,2015-05-25,48000,,,yes,,song
+247469,Great Tit,Sweden,59.576,16.6244,A,0:17,05:50,2015-05-16,44100,Song from a bird in a small tree at the edge of a field.,,yes,,song
+244395,Great Tit,Spain,41.6014,1.7645,A,0:50,10:35,2015-04-14,48000,,,yes,,song
+244394,Great Tit,Spain,41.6014,1.7645,A,0:51,10:30,2015-04-14,48000,,,yes,,song
+240801,Great Tit,Sweden,59.5061,16.4632,A,0:12,09:42,2015-05-03,44100,Song from a bird in a tree in an open area.,,yes,,song
+237253,Great Tit,Sweden,59.502,16.2332,A,0:05,11:51,2015-04-18,44100,,,yes,,song
+236542,Great Tit,Norway,63.7374,11.3406,A,0:27,06:00,2015-04-17,48000,,,yes,,song
+236520,Great Tit,Norway,63.7374,11.3406,A,0:09,12:30,2015-03-18,48000,,,yes,,song
+235722,Great Tit,Sweden,59.5265,16.5372,A,0:05,08:28,2015-04-11,44100,Song from a bird moving in a low tree.,,yes,,song
+234250,Great Tit,Sweden,59.5355,16.4772,A,0:25,07:54,2015-04-04,44100,Song from a bird perched in a low tree in the pasture.,,yes,,song
+234248,Great Tit,Sweden,59.5355,16.4772,A,0:18,07:28,2015-04-04,44100,Song from a bird perched in a low tree in the pasture. Wind noise has been filtered.,,yes,,song
+218147,Great Tit,Spain,41.5811,1.8017,A,0:54,11:27,2015-01-17,44100,,,yes,,song
+214637,Great Tit,Germany,50.1354,8.6927,A,0:45,12:30,2015-02-24,44100,,,yes,,song
+214442,Great Tit,Sweden,60.5937,15.6124,A,0:27,04:00,1979-05-07,44100,Song from a bird in a tree in a garden.,,yes,,song
+213457,Great Tit,Finland,61.1595,25.8466,A,0:20,?,1994-04-05,44100,,,yes,,song
+212916,Great Tit,Germany,52.2292,13.8392,A,0:31,08:10,2015-02-11,44100,,,yes,,song
+185865,Great Tit,United Kingdom,54.12,-0.5445,A,0:45,06:04,2014-04-10,48000,Great tit song ... not filtered ... parabolic ...,male,yes,,song
+180727,Great Tit,United Kingdom,54.12,-0.5445,A,0:41,06:01,2013-06-01,48000,Great tit song ... not filtered ... parabolic ...,male,yes,,song
+177409,Great Tit,United Kingdom,54.1288,-0.5471,A,0:35,07:31,2014-03-08,48000,Great tit song  ... not filtered ... parabolic ... windy ...,male,yes,,song
+175104,Great Tit,Poland,52.3948,20.5319,A,0:17,9:30,2014-04-18,32000,interesting pre-verb and arrhythmic syllable - next bird by the XC175102 - some kind local micro dialect (at least 2 more birds around),,yes,,song
+174773,Great Tit,Norway,60.7225,11.1095,A,0:38,14:30,2014-04-16,48000,,male,yes,,song
+170185,Great Tit,Switzerland,46.9883,7.0515,A,0:34,11:30,2014-03-18,44100,,,yes,,song
+169873,Great Tit,Poland,53.1232,20.3506,A,0:30,15:00,2014-03-13,48000,Same birds XC169869 & XC169870 & XC169871.  Street noise. Habitat: garden in the suburbs. ,male,yes,,song
+168865,Great Tit,Poland,53.1357,20.315,A,0:46,11:00,2014-03-04,48000,Habitat: coniferous forest.,male,yes,,song
+168436,Great Tit,Poland,53.1374,20.3205,A,0:28,10:30,2014-02-21,48000,Same bird XC168434. Habitat: coniferous forest.,male,yes,,song
+161542,Great Tit,France,49.1482,2.6614,A,0:19,09:00,1993-04-11,44100,,male,yes,,song
+160982,Great Tit,Poland,53.1486,20.274,A,0:24,11:00,2013-12-27,48000,Habitat: wet deciduous forest.,,yes,,song
+153826,Great Tit,France,44.5163,5.6484,A,0:18,16:30,2013-11-02,48000,,,yes,,song
+153825,Great Tit,France,44.5163,5.6484,A,0:32,16:00,2013-11-02,48000,,,yes,,song
+150234,Great Tit,Poland,54.4321,19.6016,A,0:45,10:01,2013-09-10,48000,"Local dialect, same bird as: XC150231 and XC150232",male,yes,,song
+150232,Great Tit,Poland,54.4321,19.6016,A,0:54,10:01,2013-09-10,48000,"Local dialect, same bird as: XC150231",male,yes,,song
+150231,Great Tit,Poland,54.4321,19.6016,A,0:33,10:01,2013-09-10,48000,Local dialect,male,yes,,song
+148451,Great Tit,Spain,39.8427,-5.9972,A,0:37,08:29,2013-04-03,44100,,,yes,,song
+143091,Great Tit,France,48.8267,2.4171,A,0:49,09:30,2011-01-30,48000,3em ind,,yes,,song
+141406,Great Tit,Romania,45.179,29.3516,A,0:54,07:30,1998-05-02,44100,Telinga,,yes,,song
+139185,Great Tit,Spain,41.575,1.806,A,0:25,12:57,2013-06-06,48000,,,yes,,song
+135371,Great Tit,France,44.5861,5.543,A,0:35,06:30,2013-05-27,48000,,,yes,,song
+134579,Great Tit,Turkey,36.906,31.506,A,0:44,09:00,2000-05-14,44100,,,yes,,song
+132001,Great Tit,France,44.5919,5.5699,A,0:36,08:30,2013-03-10,48000,,,yes,,song
+131611,Great Tit,Germany,54.2137,9.1037,A,0:37,11:47,2013-04-25,44100,At the rim of a forest.,,yes,,song
+131244,Great Tit,Poland,52.1439,20.9198,A,0:34,14:00,2013-04-23,44100,Part of longer song composed from that unusual motive because of chaining the  syllables throughout the course of 2 or 3 element song.,male,yes,,song
+129215,Great Tit,Poland,52.3568,20.9072,A,0:55,15:40,2013-04-11,44100, Hostile song with mimicry of alarm call of  this bird  Marsh Tit: XC129207 same as XC129213,male,yes,,song
+128697,Great Tit,Germany,49.4162,8.1756,A,0:34,10:00,2013-03-28,48000,"Bird singing from top of a small tree on forest edge bordering extensive farmed vineyards.  One of the first warm and sunny days in spring. Equipment: Telinga Pro 7 Stereo Dat Mic, Sound Devices 702",male,yes,,song
+127995,Great Tit,Poland,51.5422,22.8733,A,0:58,15:20,2013-03-30,44100,,,yes,,song
+127479,Great Tit,Poland,52.37,20.9129,A,0:48,15:00,2013-03-27,44100,"Interesting motive, on Pair of Marsh Tit (Poecile palustris)",male,unknown,,song
+123522,Great Tit,Poland,52.3725,20.9129,A,0:32,15:00,2013-03-03,44100,Interesting dialect over some  adjacent pairs,male,yes,,song
+122930,Great Tit,Poland,52.3306,20.9292,A,0:42,13:30,2013-02-26,44100,"lonely bird, same as XC122926, one from most common motives",male,yes,,song
+122771,Great Tit,Poland,52.1671,21.0486,A,0:22,11:00,2006-03-11,44100,Cleaned,male,yes,,song
+121580,Great Tit,United Kingdom,49.9204,-6.2906,A,0:55,13:06,2013-02-15,44100,Bird singing from top of small willow clump (Salix sp.).,male,yes,,song
+120451,Great Tit,Kazakhstan,50.2702,83.2866,A,0:39,07:32,2011-05-16,44100,,,yes,,song
+120344,Great Tit,Kazakhstan,41.465,68.1022,A,0:35,12:35,2011-04-08,44100,,,yes,,song
+120340,Great Tit,Kazakhstan,41.465,68.1022,A,0:10,10:26,2011-04-07,44100,,,yes,,song
+99911,Great Tit,Belgium,50.792,4.423,A,0:39,18:00,2012-04-27,44100,,,unknown,,song
+96140,Great Tit,Netherlands,52.1248,4.3448,A,0:42,09:45,2012-02-29,44100,"[52.127, 4.349]",,unknown,,song
+95788,Great Tit,Germany,54.191,9.106,A,0:50,6.42,2012-02-25,44100,in my garden. Song type changes while recording.,,unknown,,song
+89967,Great Tit,France,45.242,5.752,A,0:51,11:15,2011-04-08,44100,,,unknown,,song
+76364,Great Tit,Germany,49.55,8.545,A,0:45,9:10,2011-04-23,44100,,,unknown,,song
+54031,Great Tit,Italy,42.6001,11.2834,A,0:52,07:00,2008-03-09,48000,Check my personal website: www.birdsongs.it,,unknown,,song
+53725,Great Tit,France,42.784,0.036,A,0:18,7:00 AM,2010-05-28,44100,,,unknown,,song
+43760,Great Tit,Poland,52.3448,20.9178,A,0:43,13:00,2010-01-30,48000,Song (antaginistic to Singing Blue Tit),,unknown,,song
+42775,Great Tit,Poland,52.217,21.063,A,0:58,15:00,2010-01-16,48000,Thirst common type of song in the year (called spring song) 3 different males,,unknown,,song
+32820,Great Tit,Russian Federation,53.9901,37.1778,A,0:29,12:00,2009-04-12,44100,,,unknown,,song
+28218,Great Tit,Sweden,58.709763,14.620056,A,0:25,?,2008-03-25,44100,,,unknown,,song
+1090762,Great Tit,France,47.8825,-2.1998,B,0:31,06:59,2026-03-23,48000,,male,no,,song
+1090319,Great Tit,Czech Republic,49.4954,17.7883,B,0:33,12:56,2026-03-15,44100,,male,yes,,song
+1089785,Great Tit,France,48.7456,2.2778,B,0:37,16:45,2026-03-20,44100,A robin can also be heard.,,no,,song
+1088917,Great Tit,Czech Republic,50.2217,17.0791,B,0:56,09:00,2026-03-07,44100,,male,yes,,song
+1088861,Great Tit,Spain,42.4557,-8.8474,B,0:10,10:30,2026-03-10,44100,,uncertain,yes,,song
+1088598,Great Tit,Sweden,61.2679,14.3669,B,0:18,09:00,2025-04-12,96000,,,yes,,song
+1088578,Great Tit,United Kingdom,51.4946,0.1946,B,0:23,17:30,2026-03-10,48000,,male,yes,,song
+1088544,Great Tit,Germany,47.6911,9.1835,B,0:55,04:48,2026-03-13,48000,Strange song. Known to be Great Tit from sequence before and after.,male,no,,song
+1088456,Great Tit,United Kingdom,52.5653,-0.7562,B,0:13,09:30,2026-03-16,44100,Song phrases from bird at edge of wooded area; Pheasant call between phrases. ,male,yes,,song
+1088283,Great Tit,United Kingdom,56.5204,-3.7605,B,0:32,12:00,2026-03-14,44100,Great tit song once at beginning,uncertain,yes,,song
+1088098,Great Tit,Sweden,59.8715,16.0864,B,0:02,17:00,2024-05-20,44100,,male,yes,,song
+1087982,Great Tit,Spain,41.6405,1.7485,B,0:35,09:30,2026-03-04,48000,,male,yes,,song
+1087981,Great Tit,Spain,41.6405,1.7485,B,0:32,09:30,2026-03-04,48000,,male,yes,,song
+1087376,Great Tit,France,44.6217,4.6102,B,0:53,12:00,2026-03-08,48000,,male,yes,,song
+1087367,Great Tit,Denmark,,,B,0:35,17:58,2026-03-04,48000,,male,yes,,song
+1087011,Great Tit,Switzerland,45.8486,8.9476,B,0:37,08:00,2026-03-08,44100,,male,yes,,song
+1085771,Great Tit,France,43.6337,1.5425,B,0:37,17:00,2026-03-07,48000,High-pass filtered. mixpre3 + pro mini parabolic,,yes,,song
+1085293,Great Tit,Spain,42.141,1.765,B,0:46,10:00,2026-02-25,48000,,male,yes,,song
+1084524,Great Tit,Germany,50.9483,13.402,B,0:18,17:58,2022-03-20,48000,,uncertain,no,,song
+1084397,Great Tit,Germany,53.129,8.1338,B,0:52,16:36,2026-02-22,48000,"normalized -3 dB, HPF",male,yes,,song
+1084280,Great Tit,France,43.178,0.3973,B,0:41,14:06,2026-02-27,48000, ,uncertain,yes,,song
+1084012,Great Tit,Russian Federation,59.9996,30.0198,B,0:16,11:00,2026-02-28,44100,,,yes,,song
+1083992,Great Tit,Italy,43.4875,11.3778,B,0:13,15:55,2026-02-28,48000,,,no,,song
+1083986,Great Tit,Czech Republic,50.2202,17.0896,B,0:58,12:00,2026-02-28,44100,,male,yes,,song
+1083985,Great Tit,Czech Republic,50.2202,17.0896,B,0:36,12:00,2026-02-28,44100,,male,yes,,song
+1083984,Great Tit,Czech Republic,50.2202,17.0896,B,0:30,12:00,2026-02-28,44100,,male,yes,,song
+1083907,Great Tit,Sweden,60.0424,17.1892,B,0:59,09:00,2026-02-28,44100,"The recording was filtered in Audacity (high-pass filter [2,500Hz -24 dB]; normalized volume peak amplitude [-3.0 dB]). The habitat is old grown boreal forest.",male,no,,song
+1083468,Great Tit,Spain,41.8992,1.7802,B,0:46,09:30,2026-02-23,48000,,male,yes,,song
+1083438,Great Tit,Italy,43.5156,11.8685,B,0:08,14:30,2026-02-26,48000,,,no,,song
+1083342,Great Tit,United Kingdom,51.4946,0.1946,B,0:14,09:30,2026-02-25,48000,,male,yes,,song
+1083341,Great Tit,United Kingdom,51.4946,0.1946,B,0:15,09:30,2026-02-25,48000,,male,yes,,song
+1083053,Great Tit,Spain,41.575,1.806,B,0:58,09:30,2026-02-18,48000,,male,yes,,song
+1083052,Great Tit,Spain,41.575,1.806,B,0:24,09:30,2026-02-18,48000,,male,yes,,song
+1083028,Great Tit,Spain,37.948,-4.9574,B,0:28,?,2019-01-10,44100, Hábitat de dehesa con un arroyo temporal con bosque galería y espeso matorral ripario.,uncertain,no,,song
+1082872,Great Tit,Spain,42.1296,1.5445,B,0:45,12:00,2026-02-17,48000,,male,yes,,song
+1082871,Great Tit,Spain,42.091,1.516,B,0:32,11:00,2026-02-17,48000,,male,yes,,song
+1082416,Great Tit,Spain,42.4589,0.7814,B,0:48,08:25,2026-02-18,48000,With the strong sound of the river,uncertain,yes,,song
+1082087,Great Tit,United Kingdom,51.4904,0.3099,B,0:44,11:30,2026-02-19,48000,,male,yes,,song
+1081950,Great Tit,Spain,42.1296,1.5445,B,0:58,13:00,2026-02-17,48000,,male,yes,,song
+1080692,Great Tit,Spain,41.3176,0.9081,B,0:23,12:25,2026-02-15,44100,,uncertain,no,,song
+1080340,Great Tit,Spain,39.1895,-6.0486,B,0:52,06:24,2025-04-25,44100,,uncertain,yes,,song
+1079313,Great Tit,Spain,36.5649,-4.9009,B,0:36,19:30,2022-05-16,48000,,,no,,song
+1079305,Great Tit,Spain,36.5649,-4.9009,B,0:54,10:00,2022-05-16,44100,,,no,,song
+1079302,Great Tit,Spain,36.5649,-4.9009,B,0:38,18:30,2022-05-16,48000,,,no,,song
+1079225,Great Tit,Spain,36.669,-5.0372,B,0:36,17:00,2022-05-17,48000,,,no,,song
+1079220,Great Tit,Spain,36.669,-5.0372,B,0:38,08:00,2022-05-17,44100,,,no,,song
+1079217,Great Tit,Spain,36.669,-5.0372,B,0:27,15:30,2022-05-17,48000,,,no,,song
+1079070,Great Tit,China,24.7133,109.8402,B,0:41,17:30,2026-02-09,48000,,uncertain,yes,,song
+1076073,Great Tit,Germany,52.6475,13.2939,B,0:23,10:30,2025-03-08,48000,song with  very fast two-note strophes,male,yes,,song
+1076071,Great Tit,Germany,52.6475,13.2939,B,0:41,10:00,2025-02-22,48000,song of a positively identified male changing strophe type in the middle of the recording from a two-note song to a three-note song,male,yes,,song
+1075337,Great Tit,France,42.9406,0.3985,B,0:40,16:30,2026-01-28,48000,,male,yes,,song
+1075282,Great Tit,Slovenia,46.0738,14.5338,B,0:56,12:00,2026-01-27,44100,,male,yes,,song
+1074503,Great Tit,France,43.6427,1.5629,B,0:32,13:05,2026-01-25,48000,High-pass filtered. mixpre3 + 53cm ms parabola,,yes,,song
+1074480,Great Tit,France,43.6378,1.5488,B,0:19,11:30,2026-01-25,48000,High-pass filtered. mixpre3 + 53cm ms parabola,,yes,,song
+1074355,Great Tit,Hungary,48.5458,20.6469,B,0:30,06:30,2005-03-13,44100,"Amplified. No exact location, near Szalamandra-ház at Szögliget. ",,unknown,,song
+1073993,Great Tit,France,48.4193,7.4446,B,0:02,11:30,2026-01-16,48000,,uncertain,yes,,song
+1073992,Great Tit,France,48.4193,7.4446,B,0:05,10:00,2026-01-16,48000,,uncertain,yes,,song
+1067267,Great Tit,Hungary,47.8826,18.9678,B,0:58,08:00,2007-04-08,44100,Not modified. Mature deciduous forest. ,,unknown,,song
+1054300,Great Tit,United Kingdom,51.5188,-3.0891,B,0:25,10:17,2025-03-30,48000,Notice that the first note of each phrase is much higher pitched and longer than the second note.,male,no,,song
+1053374,Great Tit,Spain,37.8769,-4.4755,B,0:38,?,2025-05-02,44100,Cortijo medio derrumbado en zona de olivar.,male,no,,song
+1050142,Great Tit,Ukraine,50.1354,28.871,B,0:59,11:30,2025-02-28,44100,,,no,,song
+1049905,Great Tit,Poland,51.423,16.4848,B,0:37,09:09,2025-10-09,44100,not modified; row of shrubs along the field road,male,yes,,song
+1044076,Great Tit,Germany,51.3454,12.3588,B,0:56,20:25,2025-05-20,48000,"juvenile still practicing the main song, in which it fell into the end? No significant modification; habitat: city backyard; see also iNat obs https://www.inaturalist.org/observations/316576409",,no,,song
+1043929,Great Tit,Spain,40.9774,-1.6895,B,0:33,?,2025-05-07,44100,  Garganta rocosa por la que circula un arroyo temporal con vegetación de matorral y arbolado poco denso.,male,no,,song
+1043799,Great Tit,Germany,51.3659,12.2643,B,0:36,14:35,2024-02-17,48000,"no significant modification; habitat: alley with trees between fields; behaviour: changed from tree to tree, was followed by another Great tit; see also iNat obs https://www.inaturalist.org/observations/203752422; associated recording from likely same bird: https://xeno-canto.org/1043798",,yes,,song
+1040944,Great Tit,Germany,52.9122,10.2937,B,0:22,11:03,2025-04-01,44100,Recording in dense old forest. ,male,no,,song
+1029835,Great Tit,Uzbekistan,39.2833,66.9021,B,0:28,13:34,2025-05-08,44100,,uncertain,unknown,,song
+1029582,Great Tit,Sweden,58.746,17.086,B,0:38,?,2025-04-11,44100,"Viaje de grabación con José Carlos Sires y Gregorio Para. Bosquete denso, con bastante matorral y mucha madera muerta en el suelo.",male,no,,song
+1029580,Great Tit,Sweden,58.746,17.086,B,0:40,?,2025-04-11,44100,"Viaje de grabación con José Carlos Sires y Gregorio Para. Bosquete denso, con bastante matorral y mucha madera muerta en el suelo.",male,no,,song
+1027966,Great Tit,Mongolia,47.7845,107.112,B,0:18,08:41,2025-06-12,48000,,uncertain,yes,,song
+1011513,Great Tit,Poland,50.4695,16.3225,B,0:50,10:30,2025-04-25,48000,boreal forest,uncertain,yes,,song
+1010929,Great Tit,Sweden,58.9096,16.7811,B,0:39,?,2025-03-31,44100,Viaje de grabación con José Carlos Sires y Gregorio Para. Gran lago con playitas y carrizales en las orillas y alrededores con bosque.,male,no,,song
+1009951,Great Tit,Sweden,58.9075,16.9376,B,0:45,?,2025-03-30,44100,Viaje de grabación con José Carlos Sires y Gregorio Para. Hábitat de pequeña laguna rodeada de bosque y algunas praderas.,male,no,,song
+1008417,Great Tit,Kazakhstan,45.0525,75.2839,B,0:27,17:00,2025-05-21,48000,,,yes,,song
+1007924,Great Tit,France,46.3727,5.9741,B,0:57,21:00,2025-06-19,44100,,,no,,song
+1002199,Great Tit,France,49.3549,0.5087,B,0:54,05:56,2025-05-09,48000,PS12,male,no,,song
+1002028,Great Tit,France,49.3144,0.6526,B,0:06,08:59,2025-05-08,48000,PS24,male,no,,song
+999963,Great Tit,China,31.1462,121.4462,B,0:43,05:58,2025-03-29,48000,,uncertain,yes,,song
+999132,Great Tit,Germany,54.0701,13.4648,B,0:45,11:00,2025-03-17,44100,interacting pair,uncertain,yes,,song
+996993,Great Tit,Sweden,59.3422,18.0547,B,0:22,06:00,2025-05-11,48000,Unusual songtype,male,no,,song
+994454,Great Tit,Netherlands,52.0059,4.3911,B,0:54,05:55,2025-04-29,44100,"Song variant, taken during overnight recording session. Somewhat overmodulated :-( ",uncertain,no,,song
+994084,Great Tit,Portugal,37.1538,-7.6735,B,0:48,11:59,2025-02-20,48000,,male,yes,,song
+994079,Great Tit,Portugal,37.1538,-7.6735,B,0:27,11:38,2025-02-20,48000,,male,no,,song
+994049,Great Tit,France,48.4256,-4.5992,B,0:42,12:00,2025-03-30,44100,,,yes,,song
+993888,Great Tit,Russian Federation,54.8532,47.0205,B,0:36,07:30,2025-04-24,44100,,male,yes,,song
+993828,Great Tit,Italy,39.5477,16.5978,B,0:14,17:57,2025-05-01,44100,,male,yes,,song
+993719,Great Tit,Poland,49.5643,21.3235,B,0:56,10:00,2025-04-23,48000,,male,yes,,song
+993544,Great Tit,Ukraine,50.334,26.6501,B,0:19,12:03,2024-03-28,44100,The southern outskirts of Netishyn. The bird was sitting in a tree. The .mp3 file was created from the video file.,uncertain,yes,,song
+993539,Great Tit,Ukraine,50.334,26.6501,B,0:48,07:33,2024-03-12,44100,,uncertain,unknown,,song
+992473,Great Tit,Italy,39.4209,16.7035,B,0:35,17:06,2025-04-27,44100,,male,yes,,song
+991068,Great Tit,Ukraine,50.334,26.6501,B,0:49,11:59,2025-04-22,44100,The southern outskirts of Netishyn.,uncertain,unknown,,song
+990687,Great Tit,Italy,38.2304,15.7295,B,0:12,12:30,2025-04-21,48000,,,no,,song
+989942,Great Tit,Poland,51.3322,16.7888,B,0:52,10:50,2025-04-18,48000,,male,yes,,song
+989926,Great Tit,Poland,51.3336,16.7988,B,0:15,08:40,2025-04-18,48000,,male,yes,,song
+989882,Great Tit,Italy,39.446,16.7839,B,0:14,17:46,2025-04-18,44100,,male,yes,,song
+989601,Great Tit,France,46.7523,1.2274,B,0:10,07:00,2025-04-10,48000,,,unknown,,song
+989539,Great Tit,Italy,39.5413,16.6933,B,0:44,12:08,2025-04-17,44100,,male,yes,,song
+989538,Great Tit,Italy,39.5413,16.6933,B,0:09,12:05,2025-04-17,44100,,male,yes,,song
+989537,Great Tit,Italy,39.5413,16.6933,B,0:24,12:02,2025-04-17,44100,,male,yes,,song
+989439,Great Tit,France,45.8397,1.2226,B,0:01,19:30,2025-04-12,44100,,,no,,song
+989009,Great Tit,France,43.6337,1.5425,B,0:37,14:30,2025-04-09,48000,High-pass filtered. ls-p5 + esm stereo aom5024,,no,,song
+988900,Great Tit,Georgia,41.1677,46.6523,B,0:30,11:52,2025-04-05,44100,Same as XC988899,uncertain,yes,,song
+988674,Great Tit,Spain,38.4024,-4.4424,B,0:16,?,2025-02-14,44100,  Pequeño embalse rodeado de bosque mediterráneo.,male,yes,,song
+987837,Great Tit,Georgia,41.1652,46.6526,B,0:19,12:30,2025-04-05,44100,,,yes,,song
+987756,Great Tit,Georgia,41.1118,46.6462,B,0:12,07:15,2025-04-05,44100,,,yes,,song
+986074,Great Tit,Italy,39.4197,16.7523,B,0:35,12:09,2025-04-06,44100,,male,no,,song
+985819,Great Tit,Netherlands,53.0228,5.917,B,0:17,08:28,2025-04-04,96000,"Highpass filter: 3.3 kHz    Male great tit singing high up in birch canopy. Song was quickly interupted by an other great tit flying overhead. The recorded tit flew after it and engaged in fight. This is not recorded, the after math of this fight resulted in the tit calling from the same perch it sang from minutes before. This recording can be found at: XC985820    Direct environment: swamp forest    4 Bft NE  3–10°C  Cloud cover: 0/8    The sound was recorded in De Deelen, a nature reserve in the northern Netherlands. The area is characterized by open water, reed beds, swamp forests, and wet grasslands. Dominant vegetation includes willows, black alders, oaks, birch, reeds, sedges, mosses, and other wetland plant species. The reserve experiences frequent human visitation.",male,yes,,song
+984895,Great Tit,Slovakia,48.2906,17.0666,B,0:23,10:30,2025-04-02,48000,"a mature hornbeam-beech forest, +9 degrees Celsius, light wind, cloudy, high-passed",male,no,,song
+984724,Great Tit,Spain,41.8517,1.5076,B,0:31,13:00,2025-03-27,48000,,uncertain,yes,,song
+984411,Great Tit,Spain,41.6405,1.7485,B,0:39,12:00,2025-03-24,48000,,male,yes,,song
+984046,Great Tit,Switzerland,45.8515,8.9522,B,0:44,08:00,2025-03-30,48000,,uncertain,no,,song
+981322,Great Tit,Spain,41.06,-1.3796,B,0:21,11:42,2025-03-12,44100,,male,yes,,song
+980882,Great Tit,Belgium,50.9839,2.8655,B,0:19,12:19,2025-03-16,44100,,male,yes,,song
+979467,Great Tit,Ireland,54.086,-8.5226,B,0:27,17:54,2025-03-11,44100,,uncertain,yes,,song
+979315,Great Tit,Austria,47.1677,15.3199,B,0:11,09:00,2025-03-09,44100,"aberrant song, maybe imitating alarm call of Turdus merula",male,yes,,song
+978717,Great Tit,Spain,37.9847,-5.0378,B,0:46,?,2024-02-22,44100,  antiguo huerto abandonado con ruinas de muros y edificaciones y una chorrera que baja desde la montaña vecina.,male,yes,,song
+978669,Great Tit,France,42.2521,8.8093,B,0:29,16:09,2025-03-05,48000,,male,yes,,song
+978163,Great Tit,Spain,41.5834,1.7252,B,0:32,11:00,2025-03-03,48000,,male,yes,,song
+978162,Great Tit,Spain,41.5834,1.7252,B,0:43,10:00,2025-03-03,48000,,uncertain,yes,,song
+977227,Great Tit,United Kingdom,55.8382,-4.3634,B,0:44,14:30,2025-03-01,48000,"Great Tit song phrases seemed to be synchronised with those of a nearby Song Thrush, so that both sang in the gaps between the other's song phrases. ",male,no,,song
+977032,Great Tit,United Kingdom,51.4881,0.3007,B,0:05,12:30,2025-03-02,32000,,male,yes,,song
+976837,Great Tit,Sweden,55.6145,14.2586,B,0:47,11:30,2025-03-01,48000,"SNR 44db, (ISO/ITU).",male,yes,,song
+976581,Great Tit,Spain,37.9847,-5.0378,B,0:35,?,2024-02-20,44100,"Cortijo en ruinas con algunos frutales abandonados y mosaico de bosque, matorral y pastizal abierto.",male,yes,,song
+975209,Great Tit,Finland,62.1459,26.3248,B,0:07,8:56,2025-02-23,48000,,,yes,,song
+974465,Great Tit,United Kingdom,51.4631,0.2809,B,0:38,08:30,2025-02-19,48000,,male,yes,,song
+972878,Great Tit,Italy,37.5193,13.1162,B,0:37,09:30,2025-02-03,48000,,male,yes,,song
+972644,Great Tit,Italy,39.4208,16.7548,B,0:32,08:23,2025-02-03,44100,,male,yes,,song
+972184,Great Tit,Netherlands,51.5806,5.2819,B,0:10,11:58,2025-02-08,44100,,,no,,song
+971310,Great Tit,United Kingdom,52.6662,-0.5918,B,0:16,08:37,2024-01-29,48000,"SNR 40dB(ISO/ITU)    Habitat: Deciduous spinney in rural village, backing onto open farmland  ",,no,,song
+965945,Great Tit,Belgium,50.8407,4.6586,B,0:41,10:45,2025-02-01,44100,,,yes,,song
+964556,Great Tit,France,49.0916,-0.0983,B,0:40,12:30,2025-01-27,48000,,,yes,,song
+964157,Great Tit,United Kingdom,52.2462,1.6087,B,0:36,08:36,2025-01-26,48000,Great tit singing from the bushes.,male,yes,,song
+960972,Great Tit,France,43.8446,5.1646,B,0:52,09:33,2024-12-28,44100,"Two different singers, the closest one was for sure a male",male,yes,,song
+959496,Great Tit,Belgium,51.0693,4.2366,B,0:56,10:50,2024-12-25,44100,,,no,,song
+959133,Great Tit,Belgium,50.8407,4.6586,B,0:25,11:00,2025-01-02,44100,,,yes,,song
+957308,Great Tit,Belgium,51.0423,3.7115,B,0:06,09:46,2024-09-13,48000,,,no,,song
+955302,Great Tit,Spain,37.4925,-4.4235,B,0:13,?,2020-01-02,44100,Hábitat rocoso con matorral y algunos árboles cerca de un pueblo.,male,yes,,song
+955301,Great Tit,Spain,37.4925,-4.4235,B,0:15,?,2020-01-02,44100,Hábitat rocoso con matorral y algunos árboles cerca de un pueblo.,male,yes,,song
+955282,Great Tit,Germany,48.9576,9.4757,B,0:48,06:03,2024-03-25,48000,High-Pass-filtered with frequency 300 Hz and roll-off 6 dB. SNR-Quality: C (21 dB ISO / ITU)  ,male,no,,song
+948638,Great Tit,Denmark,55.1648,11.7653,B,0:07,10:42,2024-11-14,48000,Bird located in forest at some distance. Noise filtered and amplified in Audacity. ,uncertain,no,,song
+938590,Great Tit,Spain,41.9901,-6.4301,B,0:17,08:00,2024-06-13,44100,,,yes,,song
+934917,Great Tit,Germany,48.8335,9.4235,B,0:41,07:55,2024-01-11,48000,High-Pass-filtered with frequency 300 Hz and roll-off 6 dB,male,no,,song
+934915,Great Tit,Germany,48.8335,9.4235,B,0:15,07:45,2024-01-11,48000,High-Pass-filtered with frequency 300 Hz and roll-off 6 dB,male,no,,song
+933803,Great Tit,Germany,48.9576,9.4757,B,0:59,07:35,2024-03-15,48000,High-Pass-filtered with frequency 300 Hz and roll-off 6 dB,male,no,,song
+924983,Great Tit,Poland,51.723,16.7865,B,0:18,06:25,2024-05-30,48000,Farmland. Bird singing from a maple tree in tree line along local road. No edit. ,uncertain,no,,song
+922451,Great Tit,Switzerland,47.3221,8.7074,B,0:06,09:04,2024-07-20,44100,,male,yes,,song
+921184,Great Tit,Spain,38.3018,-2.6124,B,0:41,07:13,2023-04-28,44100,"Un pequeño pueblo poco habitado rodeado de cortados rocosos, praderas escarpadas, huertas y un río con bosque galería.",male,no,,song
+912848,Great Tit,Albania,40.2799,20.0477,B,0:11,06:00,2024-05-02,48000,,male,yes,,song
+912846,Great Tit,Albania,40.2799,20.0477,B,0:05,06:00,2024-05-02,48000,,male,yes,,song
+911184,Great Tit,China,29.8047,121.7954,B,0:48,05:30,2024-05-03,44100,,uncertain,no,,song
+910765,Great Tit,Russian Federation,49.7887,44.4278,B,0:13,07:00,2024-04-15,44100,,male,yes,,song
+909084,Great Tit,Poland,50.6325,22.9108,B,0:21,13:20,2024-05-30,48000,,,no,,song
+907119,Great Tit,France,44.0626,1.9506,B,0:28,07:20,2024-04-07,48000,High-pass filtered. ls-p5 + esm stereo (aom5024),,no,,song
+905031,Great Tit,France,49.2482,0.6838,B,0:40,11:10,2024-05-15,48000,,uncertain,no,,song
+904953,Great Tit,France,47.2931,-1.539,B,0:28,07:08,2024-05-06,48000,,uncertain,no,,song
+904900,Great Tit,Russian Federation,49.7887,44.4278,B,0:32,05:30,2024-04-15,44100,,male,yes,,song
+904898,Great Tit,Russian Federation,49.7887,44.4278,B,0:37,05:30,2024-04-15,44100,,male,yes,,song
+904896,Great Tit,Russian Federation,49.7887,44.4278,B,0:53,05:30,2024-04-15,44100,,male,yes,,song
+904894,Great Tit,Russian Federation,49.7887,44.4278,B,0:19,05:30,2024-04-15,44100,,male,yes,,song
+902961,Great Tit,France,47.3191,-2.2474,B,0:40,19:30,2024-04-30,48000,,,yes,,song
+902949,Great Tit,Ireland,52.2393,-6.3464,B,0:32,07:30,2024-05-09,44100,Resuming adult. ,male,no,,song
+902756,Great Tit,France,49.3443,0.5429,B,0:55,21:12,2024-05-10,48000,,uncertain,yes,,song
+902018,Great Tit,Russian Federation,43.5411,43.3603,B,0:43,06:00,2024-04-19,44100,,male,yes,,song
+902015,Great Tit,Russian Federation,43.5411,43.3603,B,0:10,06:00,2024-04-19,44100,,male,yes,,song
+902009,Great Tit,Russian Federation,43.5411,43.3603,B,0:47,06:00,2024-04-19,44100,,male,yes,,song
+901995,Great Tit,Sweden,59.3401,18.0429,B,0:40,07:00,2024-05-11,48000,,male,no,,song
+899357,Great Tit,France,46.5335,0.3325,B,0:26,08:30,2012-02-18,48000,,male,yes,,song
+899356,Great Tit,France,46.5335,0.3325,B,0:45,08:30,2012-02-18,44100,,male,yes,,song
+898980,Great Tit,France,49.3443,0.5429,B,0:58,08:27,2024-04-20,48000,,uncertain,yes,,song
+898975,Great Tit,France,49.3312,0.5446,B,0:51,11:01,2024-04-18,48000,,uncertain,no,,song
+898829,Great Tit,Italy,45.6151,7.36,B,0:10,16:48,2024-04-28,48000,,,no,,song
+898794,Great Tit,Italy,45.6151,7.36,B,0:03,11:13,2024-04-28,48000,,,no,,song
+897748,Great Tit,Ireland,52.2393,-6.3464,B,0:30,07:00,2024-04-20,44100,,male,no,,song
+897574,Great Tit,Norway,60.7385,10.9835,B,0:39,10:25,2024-04-21,48000,,male,yes,,song
+897551,Great Tit,France,44.8035,0.8718,B,0:18,10:00,2024-04-21,44100,,uncertain,yes,,song
+897490,Great Tit,Spain,39.789,3.0962,B,0:28,11:00,2024-04-07,44100,,male,yes,,song
+895258,Great Tit,Cyprus,34.7539,32.4069,B,0:07,08:00,2024-04-05,44100,,male,yes,,song
+894261,Great Tit,France,46.0252,-0.9816,B,0:50,09:30,2024-04-07,48000,High-pass filtered. mixpre3 + 53cm MS parabolic,,yes,,song
+892848,Great Tit,Portugal,41.515,-8.3285,B,0:37,12:12,2024-03-31,44100,,,yes,,song
+892721,Great Tit,France,47.6986,-2.1854,B,0:39,11:52,2024-03-30,48000,"Formation sur la bioacoustique avec l'association Animal Debout, Rennes (35), France - Training about bioacoustic, with the NGO Animal Debout, Rennes (35), Brittany, France. And a plane",uncertain,yes,,song
+892687,Great Tit,France,47.6979,-2.1806,B,0:58,08:38,2024-03-31,48000,"Formation sur la bioacoustique avec l'association Animal Debout, Rennes (35), France - Training about bioacoustic, with the NGO Animal Debout, Rennes (35), Brittany, France.",uncertain,yes,,song
+892685,Great Tit,France,47.6992,-2.1856,B,0:55,08:19,2024-03-31,48000,"Formation sur la bioacoustique avec l'association Animal Debout, Rennes (35), France - Training about bioacoustic, with the NGO Animal Debout, Rennes (35), Brittany, France. And a plane.",uncertain,yes,,song
+892636,Great Tit,France,47.6979,-2.1806,B,0:19,09:03,2024-04-01,48000,"Formation sur la bioacoustique avec l'association Animal Debout, Rennes (35), France - Training about bioacoustic, with the NGO Animal Debout, Rennes (35), Brittany, France",uncertain,yes,,song
+892392,Great Tit,Spain,37.1784,-3.5823,B,0:04,18:00,2024-03-25,44100,rainy and cold day,uncertain,yes,,song
+891342,Great Tit,Hungary,48.4724,20.5093,B,0:42,08:30,2011-03-13,44100,Unmodified. Deciduous trees near the village. ,,yes,,song
+891336,Great Tit,Hungary,48.4755,20.5101,B,0:16,06:50,2011-03-13,44100,Unmodified. Deciduous forest edge. ,,yes,,song
+884842,Great Tit,United Kingdom,51.721,-0.145,B,0:23,11:08,2024-03-16,48000, ,,yes,,song
+884839,Great Tit,United Kingdom,51.721,-0.145,B,0:37,08:23,2024-03-16,48000, ,,yes,,song
+884837,Great Tit,United Kingdom,51.721,-0.145,B,0:38,07:58,2024-03-16,48000, ,,yes,,song
+884004,Great Tit,France,44.0624,1.9482,B,0:40,12:30,2024-03-23,48000,High-pass filtered. mixpre3 + mkh8070,,yes,,song
+883438,Great Tit,Norway,69.7253,30.0592,B,0:07,10:30,2024-03-11,44100,,,unknown,,song
+883339,Great Tit,Netherlands,51.9892,4.4694,B,0:41,06:21,2024-03-20,44100,,male,no,,song
+883120,Great Tit,Portugal,41.5547,-8.3771,B,0:41,09:03,2024-03-19,44100,,,yes,,song
+881937,Great Tit,France,44.0599,1.9522,B,0:36,18:30,2024-03-15,48000,Same bird as XC881936. High-pass filtered. mixpre3 + 53cm MS parabolic,,yes,,song
+881706,Great Tit,France,46.8775,-2.0926,B,0:04,12:54,2023-04-22,48000,Strange song,uncertain,unknown,,song
+881341,Great Tit,France,48.5779,-0.062,B,0:17,08:59,2024-03-07,44100,,male,yes,,song
